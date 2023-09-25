@@ -78,7 +78,6 @@ void printVector(int Array[], int size)
 }
 
 int main(){
-    // std::vector<int> A = {9, 12, 8, 3, 11, 13, 5, 6};
     int A[] = {3, 2, 5, 0, 1, 8, 7, 6, 9, 4};
     printVector(A,10);
     InsertionSort(A,10);
